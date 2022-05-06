@@ -1,0 +1,6 @@
+Training Time: 2384.8145694732666
+true positive rate: 0.77258
+false positive rate: 0.15073
+true negative rate: 0.84927
+false negative rate: 0.22742
+accuracy: 0.810925

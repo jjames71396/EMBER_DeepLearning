@@ -1,0 +1,5 @@
+true positive rate: 0.85228
+false positive rate: 0.10492
+true negative rate: 0.89508
+false negative rate: 0.14772
+accuracy: 0.87368
